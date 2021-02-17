@@ -1,7 +1,7 @@
 {
-  "name": "conalep-staff",
-  "short_name": "conalep-staff",
-  "theme_color": "#1976d2",
+  "name": "Oficinas Conalep Cancún II",
+  "short_name": "Oficinas Conalep II",
+  "theme_color": "#31AB46",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
