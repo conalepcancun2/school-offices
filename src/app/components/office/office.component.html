@@ -1,0 +1,38 @@
+<h1 class="animated fadeIn">{{office.name}}</h1>
+<h2><small>({{ office.schedules }})</small></h2>
+<hr>
+
+<div class="row animated fadeIn fast">
+    <div class="col-md-8">
+        <h3>Jef(a) del departamento</h3>
+        <p><b>{{ office.assigned_admin }}</b></p>
+        <p>{{ office.details }}</p>
+
+        <h4>Contacto:</h4>
+        <p>{{ office.email }}</p>
+
+        <div class="text-center" *ngIf="office.officeServices">
+            <table class="table table-responsive">
+                <caption style="caption-side: top;">Servicios</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Servicios</th>
+                        <th scope="col">Responsable</th>
+                        <th scope="col">Correo electrónico</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let subItem of office.officeServices; let i = index">
+                        <td>{{ subItem.services_detail }}</td>
+                        <td>{{ subItem.team_member_name }}</td>
+                        <td>{{ subItem.team_member_email }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <a [routerLink]="['/offices']" class="btn btn-outline-danger btn-block">Regresar</a>
+    </div>
+</div>
