@@ -91,7 +91,7 @@ let officesArray = [
         "details": "​El departamento de Promoción y Vinculación, tiene como objetivo dar a conocer el mejor contenido generado a través de la oferta educativa a las y los benitojuarenses, así mismo, generar y crear vías de colaboración y cooperación con los diversos sectores; público, social y privado, con la finalidad de vincular de manera directa a nuestra comunidad de estudiantes en su desarrollo de formación integral.",
         "img": "",
         "schedules": "Lunes a Viernes de 9 am a 1 pm",
-        "email": "vinvulacion.cancun2@qroo.conalep.edu.mx",
+        "email": "vinculacion.cancun2@qroo.conalep.edu.mx",
         "assigned_admin": "LCC. Francelia Lidieth Hernández Mendoza",
         "active": 1,
         "created_at": "2021-01-21 09:35:51",
@@ -103,19 +103,19 @@ let officesArray = [
                 "id": 4,
                 "services_detail": "Seguimiento de prácticas profesionales, seguimiento de egresados, Comité de vinculación.",
                 "team_member_name": "Mtra. Elsa Pérez Alejandro",
-                "team_member_email": "correo@correo.com"
+                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
             },
             {
                 "id": 5,
                 "services_detail": "Seguimiento al programa de atención a la comunidad, servicio comunitario y capacitación social. Atención al seguimiento de servicio social generación 2017-2020. Apoyo a encuestas y aplicación de actividades de promoción y difusión.",
                 "team_member_name": "C. Paola Martínez Montaño",
-                "team_member_email": "correo@correo.com"
+                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
             },
             {
                 "id": 16,
                 "services_detail": "Seguimiento de convenios, Seguimiento a convocatorias, seguimiento en colaboración con formación técnica para el programa de emprendimiento.",
                 "team_member_name": "Lic. Ynel Cutz Alayón",
-                "team_member_email": "-@_._"
+                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
             }
         ]
     },
