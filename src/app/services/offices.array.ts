@@ -199,7 +199,7 @@ let officesArray = [
             },
             {
                 "id": 14,
-                "services_detail": "Recursos Humanos (Control y seguimiento de incidencias y prestaciones docentes, así como control de expediente, actualización de Sentre).",
+                "services_detail": "Atención a Docentes de parte del área de S.A",
                 "team_member_name": "Lic. Brenda Chavez Martinez",
                 "team_member_email": "vrenda7@live.commx"
             },
@@ -211,7 +211,7 @@ let officesArray = [
             },
             {
                 "id": 19,
-                "services_detail": "Recursos Humanos (Control y seguimiento de incidencias y prestaciones personal administrativo, así como control y actualización de expediente, seguimiento a convenios de pago de alumnos).\r\nRecursos Materiales (recepción, control y entrega de materiales papelería a las áreas del plantel).",
+                "services_detail": "Personal Auxiliar de Servicios Administrativos",
                 "team_member_name": "Lic. Yereni Carianna Canabal Chi",
                 "team_member_email": "carianna.c@conalepqroo.edu.mx"
             },
