@@ -234,3 +234,5 @@ let officesArray = [
         ]
     }
 ];
+
+export default officesArray;
