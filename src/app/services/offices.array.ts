@@ -200,8 +200,8 @@ let officesArray = [
             {
                 "id": 14,
                 "services_detail": "Recursos Humanos (Control y seguimiento de incidencias y prestaciones docentes, así como control de expediente, actualización de Sentre).",
-                "team_member_name": "Lic. Brenda Chavez Martinez",
-                "team_member_email": "vrenda7@live.commx"
+                "team_member_name": "Lic. Yereni Carianna Canabal Chi",
+                "team_member_email": "carianna.c@conalepqroo.edu.mx"
             },
             {
                 "id": 15,
