@@ -29,25 +29,25 @@ let officesArray = [
                 "id": 9,
                 "services_detail": "1. Coordinar y supervisar el trabajo del personal de mantenimiento bajo su mando.\r\n2. Realizar mantenimiento preventivo y correctivo a la infraestructura (pintura, eléctrico, plomería, albañilería, jardinería, soldadura).\r\n3. Realizar mantenimiento preventivo y correctivo de mobiliario y equipo.\r\n4. Montaje de mobiliario y equipo para eventos y actividades.",
                 "team_member_name": "P.T Enrique Santiago Castillo Chan",
-                "team_member_email": "-@_._"
+                "team_member_email": "talleres.cancun2@qroo.conalep.edu.mx"
             },
             {
                 "id": 10,
                 "services_detail": "1. Realizar mantenimiento preventivo y correctivo a la infraestructura (pintura, eléctrico, plomería, albañilería, jardinería).\r\n2. Realizar mantenimiento preventivo y correctivo de mobiliario y equipo.\r\n3. Limpieza de salones, oficinas, áreas públicas, talleres y laboratorios.\r\n4. Montaje de mobiliario y equipo para eventos y actividades.",
                 "team_member_name": "C. Ernesto Amilcar Ojeda Gongora / C. Luis Alberto Hernandez",
-                "team_member_email": "-@_._"
+                "team_member_email": "talleres.cancun2@qroo.conalep.edu.mx"
             },
             {
                 "id": 11,
                 "services_detail": "1. Realizar mantenimiento preventivo y correctivo a la infraestructura (pintura, eléctrico, plomería, albañilería, jardinería).\r\n2. Realizar mantenimiento preventivo y correctivo de mobiliario y equipo.\r\n3. Limpieza de salones, baños administrativos, oficinas, áreas públicas, talleres y laboratorios.\r\n4. Montaje de mobiliario y equipo para eventos y actividades.",
-                "team_member_name": "C. Juan Gabriel Valdez Vazquez / P.T Vladimir Yael Cob Centurion",
-                "team_member_email": "-@_._"
+                "team_member_name": "C. Juan Gabriel Valdez Vazquez / P.T Emanuel Escárcega Muñoz",
+                "team_member_email": "talleres.cancun2@qroo.conalep.edu.mx"
             },
             {
                 "id": 12,
                 "services_detail": "1. Limpieza profunda diaria  de sanitarios de estudiantes.\r\n2. Suministrar insumos a los sanitarios (papel y jabón de manos).\r\n3. Apoyo en eventos y actividades.",
                 "team_member_name": "C. Marcela Sosa Sanchez",
-                "team_member_email": "-@_._"
+                "team_member_email": "talleres.cancun2@qroo.conalep.edu.mx"
             }
         ]
     },
@@ -103,19 +103,19 @@ let officesArray = [
                 "id": 4,
                 "services_detail": "Seguimiento de prácticas profesionales, seguimiento de egresados, Comité de vinculación.",
                 "team_member_name": "Mtra. Elsa Pérez Alejandro",
-                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
+                "team_member_email": "epereza.adm286@qroo.conalep.edu.mx"
             },
             {
                 "id": 5,
                 "services_detail": "Seguimiento al programa de atención a la comunidad, servicio comunitario y capacitación social. Atención al seguimiento de servicio social generación 2017-2020. Apoyo a encuestas y aplicación de actividades de promoción y difusión.",
                 "team_member_name": "C. Paola Martínez Montaño",
-                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
+                "team_member_email": "virginia.m@conalepqroo.edu.mx"
             },
             {
                 "id": 16,
                 "services_detail": "Seguimiento de convenios, Seguimiento a convocatorias, seguimiento en colaboración con formación técnica para el programa de emprendimiento.",
                 "team_member_name": "Lic. Ynel Cutz Alayón",
-                "team_member_email": "vinculacion.cancun2@qroo.conalep.edu.mx"
+                "team_member_email": "ycutza.adm286@qroo.conalep.edu.mx"
             }
         ]
     },
@@ -136,18 +136,24 @@ let officesArray = [
             {
                 "id": 6,
                 "services_detail": "Seguimiento de lideres de grupo, vida Saludable, consejo de mujeres, atención individualizada, reuniones y talleres de padres/madres de familia.",
-                "team_member_name": "Ángela Dalia Campos Jimenez / Karina Franco Ramirez",
+                "team_member_name": "Ángela Dalia Campos Jimenez",
                 "team_member_email": "orientacioneducativa.ccd@gmail.com"
+            },
+            {
+                "id": 18,
+                "services_detail": "Seguimiento de lideres de grupo, vida Saludable, consejo de mujeres, atención individualizada, reuniones y talleres de padres/madres de familia.",
+                "team_member_name": "Xochitl Adriana Moreno Campos",
+                "team_member_email": "xmorenoc.adm286@qroo.conalep.edu.mx"
             }
         ]
     },
     {
         "id": 5,
         "name": "Capacitación",
-        "details": "Coordinador de capacitación.\r\n\r\nCoordinador de certificaciones.",
+        "details": "La capacitación que brindamos en el CONALEP favorece la adquisición y desarrollo de competencias requeridas para el desempeño de funciones productivas en los sectores público, social y privado, mediante la impartición de cursos presenciales de fácil acceso. Ofrecemos un portafolio de servicios que incluye programas pertinentes y flexibles en respuesta a las necesidades de nuestros usuarios. Nos esforzamos por brindar profesionalismo, calidad y resultados así como su certificación.",
         "img": "",
         "schedules": "Lunes a Viernes de 9 am a 5 pm.",
-        "email": "hjhernandez@conalepcancun2.edu.mx",
+        "email": "capacitacion.cancun2@qroo.conalep.edu.mx",
         "assigned_admin": "Lic. Hiram Javier Hernández Navarrete",
         "active": 1,
         "created_at": "2021-01-28 10:03:01",
@@ -228,5 +234,3 @@ let officesArray = [
         ]
     }
 ];
-
-export default officesArray;
