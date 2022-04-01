@@ -1,6 +1,6 @@
 <div class="card animated fadeIn fast">
     <div class="card-header text-center">
-        <h5 class="card-title">{{ office.name }}</h5>
+        <h5 class="card-title">{{ office.name }} {{ office.phone_extension_number === '' ? '' : ' - ' + office.phone_extension_number }} </h5>
     </div>
     <div class="card-body">
         <p class="card-text">{{ office.details }}</p>
