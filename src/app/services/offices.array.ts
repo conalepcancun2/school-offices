@@ -2,6 +2,7 @@ let officesArray = [
     {
         "id": 1,
         "name": "Talleres y Laboratorios",
+        "phone_extension_number": "1003",
         "details": "Responsable de coordinar el uso de los talleres y laboratorios.\r\nCoordinar al personal de los puestos de carácter operativo y de servicios del área.\r\nRealizar y supervisar la realización de las prácticas tecnológicas de acuerdo a lo programado. Supervisar el uso adecuado y aprovechamiento del mobiliario y equipo de los talleres y laboratorios.\r\nCoordinar las actividades relativas a la conservación y mantenimiento de  la infraestructura de bienes muebles e inmuebles. Coordinar los procesos del Sistema de Gestión de Calidad y del PC-SiNEMS.",
         "img": "lhKTbHxX-G4rEIgwY9PM0TRNMSkhJuSl.jpg",
         "schedules": "Lunes a Viernes de 7:30 a 14:00 y 14:30 a 20:30",
@@ -54,6 +55,7 @@ let officesArray = [
     {
         "id": 2,
         "name": "Servicios Escolares",
+        "phone_extension_number": "1005",
         "details": "Oficina destinada al levantamiento de becas, constancias de autentificaciones, titulaciones e inscripciones.",
         "img": "",
         "schedules": "Lunes a Viernes de 9:00 a 14:00",
@@ -88,6 +90,7 @@ let officesArray = [
     {
         "id": 3,
         "name": "Promoción y vinculación",
+        "phone_extension_number": "1004",
         "details": "​El departamento de Promoción y Vinculación, tiene como objetivo dar a conocer el mejor contenido generado a través de la oferta educativa a las y los benitojuarenses, así mismo, generar y crear vías de colaboración y cooperación con los diversos sectores; público, social y privado, con la finalidad de vincular de manera directa a nuestra comunidad de estudiantes en su desarrollo de formación integral.",
         "img": "",
         "schedules": "Lunes a Viernes de 9 am a 1 pm",
@@ -101,7 +104,7 @@ let officesArray = [
         "officeServices": [
             {
                 "id": 4,
-                "services_detail": "Seguimiento de prácticas profesionales, seguimiento de egresados, Comité de vinculación.",
+                "services_detail": "Seguimiento de convenios, Seguimiento a convocatorias, seguimiento en colaboración con formación técnica para el programa de emprendimiento.",
                 "team_member_name": "Mtra. Elsa Pérez Alejandro",
                 "team_member_email": "epereza.adm286@qroo.conalep.edu.mx"
             },
@@ -113,7 +116,7 @@ let officesArray = [
             },
             {
                 "id": 16,
-                "services_detail": "Seguimiento de convenios, Seguimiento a convocatorias, seguimiento en colaboración con formación técnica para el programa de emprendimiento.",
+                "services_detail": "Seguimiento de prácticas profesionales, seguimiento de egresados, Comité de vinculación.",
                 "team_member_name": "Lic. Ynel Cutz Alayón",
                 "team_member_email": "ycutza.adm286@qroo.conalep.edu.mx"
             }
@@ -122,6 +125,7 @@ let officesArray = [
     {
         "id": 4,
         "name": "Orientación educativa",
+        "phone_extension_number": "1009",
         "details": "Acompañamiento e integración de los alumnos al nuevo entorno escolar. Apoyo psico-pedagógico para atender problemáticas particulares mediante atención individual y/o grupal. La orientación vocacional cuando proceda para elegir con mayor certeza las opciones profesionales o académicas.",
         "img": "",
         "schedules": "Lunes a Viernes de 9:30 a 4:30",
@@ -150,6 +154,7 @@ let officesArray = [
     {
         "id": 5,
         "name": "Capacitación",
+        "phone_extension_number": "",
         "details": "La capacitación que brindamos en el CONALEP favorece la adquisición y desarrollo de competencias requeridas para el desempeño de funciones productivas en los sectores público, social y privado, mediante la impartición de cursos presenciales de fácil acceso. Ofrecemos un portafolio de servicios que incluye programas pertinentes y flexibles en respuesta a las necesidades de nuestros usuarios. Nos esforzamos por brindar profesionalismo, calidad y resultados así como su certificación.",
         "img": "",
         "schedules": "Lunes a Viernes de 9 am a 5 pm.",
@@ -165,6 +170,7 @@ let officesArray = [
     {
         "id": 6,
         "name": "Paraescolares",
+        "phone_extension_number": "",
         "details": "Atención a los alumnos de paraescolares y actividades deportivas y culturales.",
         "img": "",
         "schedules": "Martes y Jueves de 9:00 a 13:00",
@@ -180,6 +186,7 @@ let officesArray = [
     {
         "id": 7,
         "name": "Servicios Administrativos",
+        "phone_extension_number": "",
         "details": "Área de gestión de recursos y planeación de recursos destinados para funcionamiento del Plantel Cancún II.",
         "img": "",
         "schedules": "Lunes a Viernes de 9:00 a 5:00",
@@ -208,17 +215,12 @@ let officesArray = [
                 "services_detail": "Recursos Humanos (Control y seguimiento de incidencias y prestaciones personal administrativo, así como control y actualización de expediente, seguimiento a convenios de pago de alumnos).\r\nRecursos Materiales (recepción, control y entrega de materiales papelería a las áreas del plantel).",
                 "team_member_name": "Lic. Mirza Yadira Ruiz Garcia",
                 "team_member_email": "mruizg.adm286@qroo.conalep.edu.mx"
-            },
-            {
-                "id": 19,
-                "services_detail": "Personal Auxiliar de Servicios Administrativos",
-                "team_member_name": "Lic. Yereni Carianna Canabal Chi",
-                "team_member_email": "carianna.c@conalepqroo.edu.mx"
-            },
+            }
         ]
     },
     {
         "id": 8,
+        "phone_extension_number": "",
         "name": "Jefatura de Proyecto de Formación Técnica",
         "details": "Seguimiento de las actividades académicas y docentes del plantel Cancún II",
         "img": "",
